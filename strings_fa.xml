@@ -597,6 +597,8 @@
     <string name="block_list_refresh_head"></string>
     <string name="block_list_refresh_tail">refreshData (به‌روزرسانی داده)</string>
 
+
+
     <string name="block_spn_refresh_head"></string>
     <string name="block_spn_refresh_tail">refreshData (به‌روزرسانی داده)</string>
 
@@ -848,6 +850,8 @@
     <string name="block_set_title_head">Activity (فعالیت) تنظیم عنوان (set title)</string>
     <string name="block_set_title_tail"></string>
 
+
+
     <string name="desc_bl_invalid_1">یک ایندکس یا منفی است یا بزرگ‌تر یا مساوی اندازه لیست (List)</string>
     <string name="desc_bl_invalid_2">یک عدد را نمی‌توان بر صفر تقسیم کرد</string>
     <string name="desc_bl_invalid_3">یک ایندکس یا منفی است یا بزرگ‌تر از اندازه رشته (String)</string>
@@ -1033,6 +1037,8 @@
     <string name="desc_bl_seekbar_get_max">دریافت حداکثر مقدار فعلی SeekBar (نوار لغزان)</string>
 
 
+
+
     <string name="desc_bl_objectanimator_set_target">تنظیم هدف مورد نظر برای انیمیشن</string>
     <string name="desc_bl_objectanimator_set_property">تنظیم ویژگی مورد نظر برای انیمیشن</string>
     <string name="desc_bl_objectanimator_set_value">تنظیم مقدار مورد نظر برای ویژگی</string>
@@ -1067,6 +1073,7 @@
     <string name="tuto_layout_title_6">ترکیب چیدمان‌های عمودی و افقی</string>
     <string name="tuto_layout_title_7">ساخت چیدمان قابل اسکرول (scroll)</string>
 
+
     <string name="tuto_button_group_title">انجام اعمال هنگام کلیک روی دکمه</string>
     <string name="tuto_button_title_1">شباهت‌ها و تفاوت‌های TextView (نمایش متن) و Button (دکمه)</string>
     <string name="tuto_button_title_2">غیرفعال کردن Button (دکمه)</string>
@@ -1081,6 +1088,8 @@
     <string name="tuto_edittext_title_6">نمایش ورودی فعلی کاربر هنگام کلیک روی Button (دکمه)</string>
     <string name="tuto_edittext_title_7">اجرای ایونت هنگام تغییر مقدار ورودی</string>
     <string name="tuto_edittext_title_8">ساخت اعتبارسنج سفارشی برای ورودی با فیلتر کلمات</string>
+
+
 
     <string name="tuto_imageview_group_title">نمایش تصاویر جذاب</string>
     <string name="tuto_imageview_title_1">افزودن تصویر</string>
@@ -1111,6 +1120,7 @@
     <string name="tuto_file_title_2">حذف داده</string>
     <string name="tuto_file_title_3">ساخت صفحه ثبت‌نام / ورود</string>
     <string name="tuto_file_title_4">به‌خاطر سپردن یک گزینه برای اجرای بعدی</string>
+
 
     <string name="tuto_calendar_group_title">فهمیدن زمان</string>
     <string name="tuto_calendar_title_1">دریافت زمان فعلی</string>
@@ -1144,6 +1154,7 @@
     <string name="tuto_algorithm_title_5">ساخت یک دسته کارت بازی (۱/۲)</string>
     <string name="tuto_algorithm_title_6">بُر زدن دسته کارت (۲/۲)</string>
     <string name="tuto_algorithm_title_7">شمارش تعداد تکرار یک کلمه</string>
+
 
     <string name="tuto_com_welcome">به آموزش خوش آمدید!</string>
     <string name="tuto_com_tab_continue">برای ادامه روی صفحه ضربه بزنید</string>
@@ -1234,7 +1245,7 @@
     <string name="tuto_textview_5_1">این تب Logic (منطق) است</string>
     <string name="tuto_textview_5_2">تب Logic از ایونت‌ها تشکیل شده است. برای مثال، کلیک روی دکمه یک ایونت است</string>
     <string name="tuto_textview_5_3">ایونت [onCreate] (هنگام ایجاد) به‌صورت پیش‌فرض ارائه شده است. این ایونتی است که همیشه یک بار هنگام شروع برنامه فعال می‌شود</string>
-    <string name="tuto_textview_5_4">بیایید این ایونت را ویرایش کنیم تا مقدار TextView هنگام شروع برنامه تغییر کند</string>
+    <string name="tuto_textview_5_4">بیایید این ایونت را ویرایش کنیم تا مقدار TextView هنگام شروع برنامه تغییر کند </string>
     <string name="tuto_textview_5_5">باید این ایونت (Event) را کامل کنید</string>
     <string name="tuto_textview_5_6">این‌جا محل برنامه‌نویسی رفتار برنامه با بلوک‌هاست</string>
     <string name="tuto_textview_5_7">می‌توانید از بلوک setText (تنظیم متن) برای تغییر مقادیر متن استفاده کنید</string>
@@ -1290,7 +1301,7 @@
     <string name="tuto_layout_2_5">TextView اول را داخل چیدمان رها کنید</string>
     <string name="tuto_layout_2_6">بیایید یک TextView دیگر هم به چیدمان اضافه کنیم</string>
     <string name="tuto_layout_2_7">یک TextView دیگر هم به چیدمان اضافه کنید</string>
-    <string name="tuto_layout_2_8">TextView را زیر TextView اول رها کنید</string>
+    <string name="tuto_layout_2_8">"TextView را زیر TextView اول رها کنید</string>
     <string name="tuto_layout_2_9">می‌بینید که چیدمان، فرزندان را به‌صورت عمودی می‌پذیرد</string>
 
     <string name="tuto_layout_3_0">تغییر اندازه چیدمان‌ها به اندازه‌های مختلف</string>
@@ -1516,6 +1527,7 @@
     <string name="tuto_imageview_3_14">بیایید یک ImageView دیگر در چیدمان خطی اضافه کنیم</string>
     <string name="tuto_imageview_3_15">بیایید تصویر را از طریق ویژگی‌هایش تغییر دهیم</string>
     <string name="tuto_imageview_3_16">تصویر \"%s\" را انتخاب کنید</string>
+
 
 
     <string name="tuto_imageview_4_0">شناخت تصاویر nine patch</string>
@@ -1826,7 +1838,7 @@
     <string name="tuto_calendar_6_0">ساخت اپ شمارش معکوس تولد</string>
     <string name="tuto_calendar_6_1">بیایید ابتدا داده‌های Spinner (اسپینر) را در ایونت "onCreate" پر کنیم</string>
     <string name="tuto_calendar_6_2">ابتدا بیایید یک لیست String (رشته) به نام \"%s\" بسازیم</string>
-    <string name="tuto_calendar_6_3">بیایید یک متغیر Number (عدد) به نام \"%s\" بسازیم</string>
+    <string name="tuto_calendar_6_3">"بیایید یک متغیر Number (عدد) به نام \"%s\" بسازیم</string>
     <string name="tuto_calendar_6_4">این متغیر Number برای اضافه کردن سال‌ها از 1990 تا 2010 به \"%s\" استفاده می‌شود</string>
     <string name="tuto_calendar_6_5">متغیر Number \"%s\" را انتخاب کنید</string>
     <string name="tuto_calendar_6_6">از آنجا که می‌خواهیم سال از 1990 شروع شود، "1990" را این‌جا وارد کنید </string>
@@ -1870,7 +1882,7 @@
     <string name="tuto_timer_2_6">قصد داریم به‌محض شروع برنامه، انیمیت تصویر را آغاز کنیم</string>
     <string name="tuto_timer_2_7">۱. یک متغیر Number بساز که شماره فریم فعلی انیمیشن را پیگیری کند\n۲. از بلوک "Timer ... every" برای به‌روزرسانی متغیر فریم در هر x میلی‌ثانیه استفاده کن\n۳. تصویر را با ایندکس فریم جدید به‌روزرسانی کن</string>
     <string name="tuto_timer_2_8">یک متغیر Number به نام \"%s\" بسازید</string>
-    <string name="tuto_timer_2_9" formatted="false">عالی! یک متغیر Number به نام \"%s\" ساختهاید. مقدار متغیرهای Number به‌طور پیش‌فرض %s است</string>
+    <string name="tuto_timer_2_9" formatted="false">عالی! یک متغیر Number به نام \"%s\" ساخته‌اید. مقدار متغیرهای Number به‌طور پیش‌فرض %s است</string>
     <string name="tuto_timer_2_10">بیایید این بلوک را درست هنگام شروع برنامه اجرا کنیم--ورودی %s</string>
     <string name="tuto_timer_2_11">همچنین بیایید این بلوک را هر %s میلی‌ثانیه اجرا کنیم</string>
     <string name="tuto_timer_2_12" formatted="false">%s را به پارامتر دوم بلوک \"%s\" اضافه کنید</string>
@@ -2107,7 +2119,8 @@
     <string name="tuto_algorithm_2_8">روی دسته Variable (متغیر) کلیک کنید</string>
     <string name="tuto_algorithm_2_9">یک متغیر String به نام \"%s\" بسازید</string>
     <string name="tuto_algorithm_2_10">بلوک \"%s\" را انتخاب کنید</string>
-    <string name="tuto_algorithm_2_11">از دو بلوک repeat (تکرار) استفاده می‌کنیم\n۱. بلوک repeat اول برای تعیین این‌که چند ردیف * می‌خواهیم چاپ کنیم، با افزودن خط جدید در هر حلقه\n۲. بلوک repeat داخل بلوک repeat برای چاپ هر ردیف\n۳. حلقه داخلی به تعداد "i" بار تکرار می‌شود، که در حلقه repeat بیرونی افزایش می‌یابد. این به ما امکان می‌دهد چاپ مثلثی شکل را به دست آوریم\n۴. در نهایت، TextView را روی متنی که در حال اتصال آن بودیم تنظیم می‌کنیم</string>
+    <string name="tuto_algorithm_2_11">از دو بلوک repeat (تکرار) استفاده می‌کنیم\n۱. بلوک repeat اول برای تعیین این‌که چند ردیف * می‌خواهیم چاپ کنیم، با افزودن خط جدید در هر حلقه\n۲. بلوک repeat داخل بلوک repeat برای چاپ هر ردیف\n
+        ۳. حلقه داخلی به تعداد "i" بار تکرار می‌شود، که در حلقه repeat بیرونی افزایش می‌یابد. این به ما امکان می‌دهد چاپ مثلثی شکل را به دست آوریم\n۴. در نهایت، TextView را روی متنی که در حال اتصال آن بودیم تنظیم می‌کنیم</string>
     <string name="tuto_algorithm_2_12">متغیر "stars" مقدار آنچه می‌خواهیم چاپ کنیم را نگه می‌دارد</string>
 
     <string name="tuto_algorithm_3_0">محاسبه زوج یا فرد بودن عدد</string>
@@ -2131,19 +2144,22 @@
     <string name="tuto_algorithm_4_8">یک متغیر Number به نام \"%s\" بسازید</string>
     <string name="tuto_algorithm_4_9">ابتدا لیست را پاک می‌کنیم تا حتی وقتی دکمه Reverse چندین بار کلیک شود، "r_list" هر بار از همان وضعیت خالی شروع کند. یک متغیر Number به نام index ساختیم که کمک می‌کند از آخرین آیتم، روی لیست اصلی تکرار کنیم.</string>
     <string name="tuto_algorithm_4_10">یک متغیر Number به نام \"%s\" بسازید</string>
-    <string name="tuto_algorithm_4_11">ایندکس را روی "size - 1" تنظیم می‌کنیم، چون ایندکس اولین آیتم در لیست از 0 شروع می‌شود و می‌خواستیم از آخرین آیتم شروع کنیم. چون اندازه لیست 3 است، می‌خواهیم از ایندکس 2 شروع کنیم که ایندکس آخرین آیتم است.\n\nبا استفاده از بلوک repeat (تکرار)، از آخرین آیتم داخل "list1" تکرار می‌کنیم و آن‌ها را به "r_list" اضافه می‌کنیم. متغیر index را در هر تکرار 1 واحد کاهش می‌دهیم تا آیتم قبلی در "list1" را بگیریم.</string>
+    <string name="tuto_algorithm_4_11">ایندکس را روی "size - 1" تنظیم می‌کنیم، چون ایندکس اولین آیتم در لیست از 0 شروع می‌شود و می‌خواستیم از آخرین آیتم شروع کنیم. چون اندازه لیست 3 است، می‌خواهیم از ایندکس 2 شروع کنیم که ایندکس آخرین آیتم است.\n\n
+        با استفاده از بلوک repeat (تکرار)، از آخرین آیتم داخل "list1" تکرار می‌کنیم و آن‌ها را به "r_list" اضافه می‌کنیم. متغیر index را در هر تکرار 1 واحد کاهش می‌دهیم تا آیتم قبلی در "list1" را بگیریم.</string>
     <string name="tuto_algorithm_4_12">سپس داده ListView را بازنشانی (reset) و به‌روزرسانی می‌کنیم، تا ListView بتواند داده جدید "r_list" را نمایش دهد</string>
 
     <string name="tuto_algorithm_5_0">ساخت یک دسته کارت بازی</string>
     <string name="tuto_algorithm_5_1">ListView (نمای لیست) ارائه‌شده کارت‌ها را پس از تولید نمایش می‌دهد</string>
     <string name="tuto_algorithm_5_2">بیایید هنگام شروع برنامه، ListView را تولید و پر کنیم</string>
-    <string name="tuto_algorithm_5_3">در کارت‌های بازی، چهار خال (suit) و 13 کارت برای هر خال وجود دارد. در دسته‌ای که می‌سازیم، خال‌ها را با اعداد نشان می‌دهیم:\n\n۱. خشت - 0\n۲. دل - 1\n۳. پیک - 2\n۴. گشنیز - 3\n\nبرای مثال، آس پیک به‌صورت 20 نشان داده می‌شود، در قالب شماره خال-کارت</string>
+    <string name="tuto_algorithm_5_3">در کارت‌های بازی، چهار خال (suit) و 13 کارت برای هر خال وجود دارد. در دسته‌ای که می‌سازیم، خال‌ها را با اعداد نشان می‌دهیم:\n
+        ۱. خشت - 0\n۲. دل - 1\n۳. پیک - 2\n۴. گشنیز - 3\n\nبرای مثال، آس پیک به‌صورت 20 نشان داده می‌شود، در قالب شماره خال-کارت</string>
     <string name="tuto_algorithm_5_4">یک متغیر Number به نام \"%s\" بسازید</string>
     <string name="tuto_algorithm_5_5">مقدار را برای تعداد خال‌ها \"%s\" تنظیم کنید</string>
     <string name="tuto_algorithm_5_6">مقدار را برای تعداد کارت‌ها \"%s\" تنظیم کنید</string>
     <string name="tuto_algorithm_5_7">یک لیست String به نام \"%s\" بسازید</string>
     <string name="tuto_algorithm_5_8">حلقه repeat داخلی هر بار که حلقه repeat بیرونی یک بار رخ می‌دهد، 13 بار تکرار می‌شود. با هر تکرار خال، 13 کارت متفاوت اضافه می‌کنیم و مقدار کارت را به 0 بازنشانی می‌کنیم تا خال بعدی هم همان 13 کارت را بگیرد</string>
-    <string name="tuto_algorithm_5_9">با موفقیت 52 کارت ساختیم. قالبی که کارت‌ها نمایش داده می‌شوند ممکن است کمی عجیب باشد، اما در دنیای برنامه‌نویسی، گاهی لازم است از قالب‌های داده مختلف برای موقعیت‌های مختلف استفاده شود\n\nرقم اول نشان می‌دهد کدام خال است و عدد بعدی شماره کارت را نشان می‌دهد. برای مثال، 09 نشان‌دهنده سرباز خشت است، چون آیتم اول با ایندکس 0 شروع می‌شود</string>
+    <string name="tuto_algorithm_5_9">با موفقیت 52 کارت ساختیم. قالبی که کارت‌ها نمایش داده می‌شوند ممکن است کمی عجیب باشد، اما در دنیای برنامه‌نویسی، گاهی لازم است از قالب‌های داده مختلف برای موقعیت‌های مختلف استفاده شود\n\n
+        رقم اول نشان می‌دهد کدام خال است و عدد بعدی شماره کارت را نشان می‌دهد. برای مثال، 09 نشان‌دهنده سرباز خشت است، چون آیتم اول با ایندکس 0 شروع می‌شود</string>
 
     <string name="tuto_algorithm_6_0">بُر زدن یک دسته کارت بازی</string>
     <string name="tuto_algorithm_6_1">پیش‌نیاز</string>
@@ -2157,7 +2173,8 @@
     <string name="tuto_algorithm_6_9">یک لیست String به نام \"%s\" بسازید</string>
     <string name="tuto_algorithm_6_10">مقدار را \"%s\" تنظیم کنید، چون 52 کارت در دسته وجود دارد</string>
     <string name="tuto_algorithm_6_11">توجه کنید که 1 کم می‌کنیم، چون آیتم اول داخل لیست با ایندکس 0 شروع می‌شود، یعنی ایندکس آخرین آیتم همیشه برابر length - 1 (طول منهای یک) است</string>
-    <string name="tuto_algorithm_6_12">در طول 52 تکرار حلقه، یک متغیر عددی تصادفی (random) تولید می‌کنیم که یک ایندکس تصادفی از 0 تا طول لیست deck - 1 می‌گیرد. با استفاده از ایندکس، کارت را از لیست deck به لیست s_deck کپی می‌کنیم و آن را از لیست deck حذف می‌کنیم تا همان کارت دوباره کپی نشود</string>
+    <string name="tuto_algorithm_6_12">در طول 52 تکرار حلقه، یک متغیر عددی تصادفی (random) تولید می‌کنیم که یک ایندکس تصادفی از 0 تا طول لیست deck - 1 می‌گیرد. با استفاده از ایندکس، کارت را از لیست deck به لیست s_deck کپی می‌کنیم و آن را از
+        لیست deck حذف می‌کنیم تا همان کارت دوباره کپی نشود</string>
 
     <string name="tuto_algorithm_7_0">شمارش تعداد تکرار کلمه "a" در یک جمله</string>
     <string name="tuto_algorithm_7_1">اینجا، یک TextView با متن "a b c a a" برای شما فراهم کرده‌ایم، الگوریتمی می‌سازیم که شمارش کند "a" چند بار تکرار شده است</string>
@@ -2169,7 +2186,8 @@
     <string name="tuto_algorithm_7_7">\"%s\" به‌طور موقت مقدار هر کاراکتری که روی آن تکرار می‌شود را نگه می‌دارد</string>
     <string name="tuto_algorithm_7_8">\"%s\" شمارش می‌کند که "a" چند بار ظاهر شده است</string>
     <string name="tuto_algorithm_7_9">یک کاراکتر را در متغیر "character (کاراکتر)" ذخیره کنید</string>
-    <string name="tuto_algorithm_7_10">بررسی کن آیا کاراکتر یک فاصله خالی است.\n۱. اگر کاراکتر فضای خالی نیست، با انجام "word join word + character (اتصال کلمه و کاراکتر)"، کاراکتر را به متغیر "word (کلمه)" متصل کن\n۲. اگر کاراکتر فضای خالی است، بررسی کن آیا کلمه برابر "a" است. اگر برابر بود، شمارنده (count) را افزایش بده. در نهایت، متغیر "word" را بازنشانی کن</string>
+    <string name="tuto_algorithm_7_10">بررسی کن آیا کاراکتر یک فاصله خالی است.\n۱. اگر کاراکتر فضای خالی نیست، با انجام "word join word + character (اتصال کلمه و کاراکتر)"، کاراکتر را به متغیر "word (کلمه)" متصل کن\n
+        ۲. اگر کاراکتر فضای خالی است، بررسی کن آیا کلمه برابر "a" است. اگر برابر بود، شمارنده (count) را افزایش بده. در نهایت، متغیر "word" را بازنشانی کن</string>
     <string name="tuto_algorithm_7_11">۱. کاراکتر را تا رسیدن به فضای خالی به کلمه متصل کن\n۲. اگر کلمه برابر "a" است، شمارنده را افزایش بده\n۳. متغیر کلمه را به یک String (رشته) خالی بازنشانی کن و ایندکس را افزایش بده\n۴. تعداد دفعات رخداد را Toast کن</string>
 
 
